@@ -13,7 +13,7 @@ I focus on a **hybrid approach** to trading: using Data Science (Python/ML) to v
 
 ### 🛠️ Tech Stack
 * **Data & ML:** Python (Pandas, NumPy, Scikit-Learn), SQL.
-* **Low Latency / Systems:** C++, Shell (École 42 Piscine Alumni).
+* **Low Latency / Systems:** C++, Shell (École 42 Piscine).
 * **Development:** Swift (iOS Native), Git/GitHub workflows.
 
 ---
