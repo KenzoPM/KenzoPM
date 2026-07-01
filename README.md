@@ -1,41 +1,47 @@
-### Hi there 👋🏾, I'm Kenzo Garnier
+# ⚡ Kenzo Garnier
 
-**Finance Student | Systematizing Fundamental Insights**
+**Quantitative Finance | Market Microstructure**
 
-I focus on a **hybrid approach** to trading: using Data Science (Python/ML) to validate and execute strategies derived from fundamental economic logic. My goal is to bridge the gap between discretionary macro analysis and systematic execution.
+Developing low-latency execution frameworks and quantitative models for energy markets and short-term volatility arbitrage. Currently focusing on EPEX SPOT order book dynamics, stochastic modeling, and physical grid constraints.
 
----
-
-### 🚀 Competitions & Markets
-* **Derivatives Trading:** Active participant in the **CME Group Trading Challenge** (Ranked Top 16% Globally - Energy & FX Futures).
-* **Market Microstructure:** Preparing for the **Stevens HFTC 2026** (Market Making algorithms).
-* **Asset Allocation:** Lead Portfolio Manager for the **NextWise Challenge** (Multi-asset book under institutional constraints).
+### 🚀 Key Focus Areas
+* **Algorithmic Trading & Microstructure:** High-frequency execution, order book modeling, and spread capture.
+* **Quantitative Risk & Pricing:** Stochastic Differential Equations (Jump Diffusion, Mean Reversion) applied to power markets.
+* **Data Engineering:** Building real-time data pipelines (APIs, Streamlit) for spatial congestion analysis.
 
 ### 🛠️ Tech Stack
-* **Data & ML:** Python (Pandas, NumPy, Scikit-Learn), SQL.
-* **Low Latency / Systems:** C++, Shell (École 42 Piscine).
-* **Development:** Swift (iOS Native), Git/GitHub workflows.
+* **Languages:** Python (Pandas, NumPy, Scikit-Learn, XGBoost), SQL, R, Swift, C.
+* **Quantitative Tools:** Monte-Carlo Simulations, Derivatives Pricing, Alpha Backtesting, OpenBB.
+* **Infrastructure:** Streamlit, Miniconda, Git, LaTeX.
 
----
+### 🧬 Featured Repositories
 
-### 🧬 Key Projects
+#### 🔋 EPEX SPOT Intraday Execution Framework
+*Architectural framework for algorithmic execution in 15-minute German power markets.*
+* Translates physical BESS/PV infrastructure constraints into algorithmic parameters.
+* Integration logic for live Montel/EPEX order book APIs.
 
-#### 🛡️ Supply Chain Diffusion Alpha (Research)
-* **Hypothesis:** Do stock prices of Prime Contractors lead those of their Suppliers in the Aerospace & Defense sector?
-* **Methodology:** Implemented rolling OLS regressions and **Granger causality** tests to validate lead-lag relationships.
-* **Result:** Developed a statistical arbitrage strategy with a **Sharpe Ratio of 0.92**.
-* (https://github.com/KenzoPM/defense-leadlag-alpha)
-  
-#### 🤖 Macro Sentiment Analysis (NLP)
-* **Objective:** Quantifying macro news flow to adjust asset allocation dynamically.
-* **Tech:** Built a pipeline using **BERT models** for sentiment extraction and **XGBoost** for factor weighting.
+#### 📡 MaStR Radar Pipeline
+*Spatial congestion heatmap infrastructure for the German national grid.*
+* Automates data ingestion from the market registry.
+* Built with Python and Streamlit.
 
-#### ⚡ Mental Math Trainer (iOS App)
-* **Project:** Native iOS app developed to train for trading desk assessments (e.g., Optiver/Flow Traders).
-* **Features:** Simulates high-pressure arithmetic drills used in trading interviews.
+#### 🛡️ Supply Chain Diffusion Alpha
+*Market-neutral statistical arbitrage in Aerospace & Defense.*
+* Validated lead-lag relationships via rolling OLS and Granger causality.
+* **Performance:** Backtested Sharpe Ratio of 0.92.
 
----
+#### 🎾 Live Sports EV Arbitrage
+*Machine Learning pipelines forecasting live tennis probabilities.*
+* Executes real-time Expected Value (EV) arbitrage integrating strict bankroll management frameworks.
 
-### 📫 Connect
-* **Interests:** Volatility Regimes, Game Theory, Energy Markets.
-* **Location:** Strasbourg, France.
+#### ⚡ HFT Mental Math iOS App
+*Native Swift application designed for Prop Shop assessment prep.*
+* Simulates high-pressure arithmetic drills and probability matrices.
+
+### 📈 Competitions & Markets
+* **CME Group Trading Challenge:** Ranked 61st / 2,170 globally (Top 2.8%) focusing on energy and FX futures volatility.
+* **Stevens Hanlon HFT Tournament:** Developed low-latency order book agents for microstructural arbitrage.
+* **NextWise Investment Challenge:** Lead PM generating +11% overall fund return and +20% personal allocation (HHI < 0.1).
+
+📫 **Location:** Cologne, Germany 
