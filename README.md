@@ -1,6 +1,6 @@
 # ⚡ Kenzo Garnier
 
-**Quantitative Finance | Macro & Market Microstructure**
+**Quantamental Finance | Macro & Market Microstructure**
 
 Bridging the gap between discretionary fundamental analysis and quantitative execution. My focus is hybrid: utilizing deep fundamental research, physical grid dynamics, and macro sentiment to drive trading decisions—whether executed manually, semi-systematically, or via algorithmic frameworks. I use data science as an asymmetric tool to validate economic theses and optimize risk-taking.
 
