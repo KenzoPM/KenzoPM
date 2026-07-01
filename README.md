@@ -1,8 +1,8 @@
 # ⚡ Kenzo Garnier
 
-**Quantitative Finance | Market Microstructure**
+**Quantitative Finance | Macro & Market Microstructure**
 
-Developing low-latency execution frameworks and quantitative models for energy markets and short-term volatility arbitrage. Currently focusing on EPEX SPOT order book dynamics, stochastic modeling, and physical grid constraints.
+Bridging the gap between discretionary fundamental analysis and quantitative execution. My focus is hybrid: utilizing deep fundamental research, physical grid dynamics, and macro sentiment to drive trading decisions—whether executed manually, semi-systematically, or via algorithmic frameworks. I use data science as an asymmetric tool to validate economic theses and optimize risk-taking.
 
 ### 🚀 Key Focus Areas
 * **Algorithmic Trading & Microstructure:** High-frequency execution, order book modeling, and spread capture.
